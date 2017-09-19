@@ -7,4 +7,5 @@ RNN models predicts the bitcoin price for next 9 mins.
 Note: 
 Since, the models uses two different methods, the predictions are out of sync. 
 
+RNN model is based on the code from https://github.com/PiSimo/BitcoinForecast
 
